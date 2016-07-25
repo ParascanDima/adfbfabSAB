@@ -3,3 +3,21 @@
 ################################################################################
 
 /DomainModel/bin/Debug
+/DomainModel/obj/Debug
+/DomainModel/DomainModel.csproj
+/Infrastructure/bin/Debug
+/Infrastructure/obj/Debug
+/Infrastructure/Infrastructure.csproj
+/Infrastructure/packages.config
+/MyProject/bin/Debug
+/MyProject/obj/Debug
+/MyProject/App.config
+/MyProject/MyProject.csproj
+/packages/Ninject.3.2.2.0
+/VirtualDataBase/bin/Debug
+/VirtualDataBase/obj/Debug
+/VirtualDataBase/VirtualDataBase.csproj
+/VurtualDataBase.Interface/bin/Debug
+/VurtualDataBase.Interface/obj/Debug
+/MyProject.sln
+/VurtualDataBase.Interface/VurtualDataBase.Interface.csproj
